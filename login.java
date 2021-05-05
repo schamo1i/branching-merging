@@ -1,2 +1,2 @@
 This is first login page
-a=10
+a=25
