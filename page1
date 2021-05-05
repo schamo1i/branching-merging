@@ -1,0 +1,4 @@
+Modified this page, in order to check the content of this file at 'source' area and 'staging' area.
+
+# 1. git diff page   ....Source Area
+# 2. git diff --staged page ....Staging area
